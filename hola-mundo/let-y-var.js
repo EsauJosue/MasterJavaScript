@@ -11,4 +11,4 @@ if (true){
 }
 console.log(numero);
 
-//Prueba con Let
+
